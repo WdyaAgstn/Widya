@@ -30,5 +30,3 @@ class TransaksiController extends Controller
         return view('dashboard', compact('Transaksis'));
     }
 }
-
-
